@@ -10,9 +10,9 @@
   * [Screenshots](#screenshots)
 
 **OLS Dialog Publications:**
-  * [Barsnes et al: BMC Bioinformatics 2010 Jan 17;11:34](http://www.ncbi.nlm.nih.gov/pubmed/20078892).
   * [Perez-Riverol et al: Molecular & Cellular Proteomics 15.1 (2016): 305-317.](http://www.ncbi.nlm.nih.gov/pubmed/26545397)
-  * If you use **OLS Dialog** as part of a paper, please include the references above.
+  * [Barsnes et al: BMC Bioinformatics 2010 Jan 17;11:34](http://www.ncbi.nlm.nih.gov/pubmed/20078892).
+  * If you use **OLS Dialog** as part of a paper, please include the latest of the two references above.
 
 ---
 
