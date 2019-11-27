@@ -1,12 +1,6 @@
 
 ---
 
-**The OLS Dialog project is now maintained at [https://github.com/PRIDE-Toolsuite/ols-dialog](https://github.com/PRIDE-Toolsuite/ols-dialog).**
-
-**The version at this page is deprecated and will not work with the updated version of the OLS.**
-
----
-
 # OLS Dialog 
 
   * [What is OLS Dialog?](#what-is-ols-dialog)
