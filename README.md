@@ -1,6 +1,4 @@
 
----
-
 # OLS Dialog 
 
   * [What is OLS Dialog?](#what-is-ols-dialog)
